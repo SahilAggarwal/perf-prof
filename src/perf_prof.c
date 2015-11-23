@@ -14,8 +14,8 @@
 *  GNU General Public License for more details.
 *
 *  You should have received a copy of the GNU General Public License
-*  along with this program; if not, write to ,
-*  #298/19 Adarsh Nagar, Gurdaspur(Pb). 143521 India.
+*  along with this program; if not, write to Free Software
+* Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
 *
 *  (http://www.gnu.org/copyleft/gpl.html)
 */
